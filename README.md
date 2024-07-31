@@ -15,7 +15,7 @@ The WhatsApp Chat Analyzer is a Streamlit application designed to analyze WhatsA
 2. **Select User**: Choose a user or "Overall" to view analysis related to all users.
 3. **Click "Show Analysis"**: The app will generate and display various analyses based on the selected user.
 ## Live Demo
-You can try out the WhatsApp Chat Analyzer live at https://whatsappchatanalysisproject-efwakkivfjqbj78pzhrpde.streamlit.app/
+You can try out the WhatsApp Chat Analyzer live at (https://whatsappchatanalysisproject-efwakkivfjqbj78pzhrpde.streamlit.app/)
 ## Files
 * app.py: Main Streamlit application script.
 * preprocessor.py: Contains functions for preprocessing chat data.
